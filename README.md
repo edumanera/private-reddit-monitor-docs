@@ -1,10 +1,5 @@
-# reddit-comfyui-monitor
+# private-reddit-comfyui-monitor
 Public documentation for a private personal read-only workflow that monitors public posts from r/comfyui
-
-
-# Reddit ComfyUI Monitor
-
-Public overview of a personal, non-commercial, read-only workflow for monitoring public posts from `r/comfyui`.
 
 ## Purpose
 
